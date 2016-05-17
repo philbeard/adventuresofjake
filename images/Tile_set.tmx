@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="10" height="10" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="grund iso tileset" tilewidth="32" tileheight="32">
+  <image source="grund iso tileset.bmp" width="1024" height="1024"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="10" height="10">
+  <data encoding="csv">
+453,455,457,459,461,936,936,936,936,936,
+454,456,458,460,462,936,936,936,936,936,
+230,936,346,752,794,936,936,936,936,936,
+227,936,345,749,793,936,936,936,936,936,
+225,936,347,745,827,936,936,936,936,936,
+232,936,348,748,828,936,936,936,936,936,
+98,936,115,515,531,936,936,936,936,936,
+104,936,120,520,632,936,936,936,936,936,
+10,936,26,558,538,936,936,936,936,936,
+73,936,89,559,601,936,936,936,936,936
+</data>
+ </layer>
+</map>
